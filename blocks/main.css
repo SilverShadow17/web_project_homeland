@@ -55,11 +55,6 @@
     max-width: 288px;
   }
 
-  .main__text_quote-author {
-    margin-top: 11px;
-    margin-bottom: 32px;
-  }
-
   .main__text_size_s {
     max-width: 288px;
   }
@@ -80,11 +75,6 @@
 
   .main__text {
     max-width: 720px;
-  }
-
-  .main__text_quote-author {
-    margin-top: 11px;
-    margin-bottom: 32px;
   }
 
   .main__text_size_s {
