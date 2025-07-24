@@ -12,9 +12,10 @@
 .main__title {
   max-width: 830px;
   font-family: "Inter", arial, sans-serif;
+  font-weight: 900;
   font-size: 54px;
   line-height: 1.2;
-  margin: 0 0 40px;
+  margin: 0 0 80px;
 }
 
 .main__text {
@@ -35,4 +36,58 @@
   max-width: 722px;
   font-size: 1em;
   line-height: 1.6;
+}
+
+@media screen and (min-width: 320px) and (max-width: 544px) {
+  .main {
+    max-width: 288px;
+    margin: 50px auto;
+  }
+
+  .main__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 1.2;
+    margin: 0 0 40px;
+  }
+
+  .main__text {
+    max-width: 288px;
+  }
+
+  .main__text_quote-author {
+    margin-top: 11px;
+    margin-bottom: 32px;
+  }
+
+  .main__text_size_s {
+    max-width: 288px;
+  }
+}
+
+@media screen and (min-width: 544px) and (max-width: 1024px) {
+  .main {
+    max-width: 720px;
+    margin: 90px auto;
+  }
+
+  .main__title {
+    max-width: 707px;
+    font-size: 45px;
+    line-height: 1.2;
+    margin: 0 0 50px;
+  }
+
+  .main__text {
+    max-width: 720px;
+  }
+
+  .main__text_quote-author {
+    margin-top: 11px;
+    margin-bottom: 32px;
+  }
+
+  .main__text_size_s {
+    max-width: 720px;
+  }
 }
