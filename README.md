@@ -11,6 +11,8 @@ Se ha creado una página que habla de homelands, utilizando un diseño responsiv
 — Flexbox
 — CSS
 — Diseño Responsive
+— Diseño de cuadricula
+— Posicionamiento mediante Grid
 
 # Link del projecto
 
