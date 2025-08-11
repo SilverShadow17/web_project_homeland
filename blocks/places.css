@@ -58,7 +58,7 @@
   );
 }
 
-.places__frame__url {
+.places__frame-url {
   color: #fff;
   text-decoration: none;
   font-family: Inter, arial, sans-serif;
@@ -163,7 +163,7 @@
     width: 288px;
   }
 
-  .places__frames-url {
+  .places__frame-url {
     font-size: 14px;
   }
 
